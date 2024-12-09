@@ -5,5 +5,5 @@
 -->
 More about me:
 - 🌱 Working with AI tools as a developer and use it to improve my SMB leads
-- Working on my E-commerce store and using [Clay AI]((https://www.clay.com/) to improve the Outbound-based lead generation
+- Working on my E-commerce store and using [Clay AI](https://www.clay.com/) to improve the Outbound-based lead generation
 - 👯 I’m looking to collaborate on M&A related projects with an IT branch.
