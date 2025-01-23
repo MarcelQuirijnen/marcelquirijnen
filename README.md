@@ -9,6 +9,7 @@ What's on my mind mostly these days :
 - Homelab: Looking into Kubernetes and deploying serverless apps
 - Homelab: Test automation using Typescript
 - Reading:
+>>>
     ...
     Jul '24: Money, Master the Game - Tony Robbins
     Aug '24: Extreme Ownership - Jocko Willink
@@ -26,4 +27,4 @@ What's on my mind mostly these days :
     Jan '25: Hagakure, The Book of Samurai - Yamamoto Tsunetomo
              If you're not First You're Last - Grant Cardone
              Building a StoryBrand - Donald Miller
-  
+  >>>
