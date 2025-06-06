@@ -10,19 +10,6 @@ What's on my mind mostly these days :
 - Reading:
 >>>
     ...
-    Jul '24: Money, Master the Game - Tony Robbins
-    Aug '24: Extreme Ownership - Jocko Willink
-             A Practical Guide to Buying a Business - Robert J. Chalfin 
-    Sep '24: The Widom of the Bullfrog - Admiral William H. McRaven
-             Financial Freedom - Mark J. Kohler
-             The 1-page Marketing Plan - Allan Dib
-    Oct '24: Buy Then Build - Walker Deibel  (2nd reading)
-             A book of Five Rings - Mushashi
-             Measure what matters - John Doerr
-    Dec '24: Leadership and Self Deception - Arbinger Institute  (2nd reading)
-             The Self Directed IRA Handbook, 2nd Ed. - Mat Sorensen
-             Inspired, 2nd Ed - Marty Cagan
-             How to build your Brand with a Book - Scott Turman
     Jan '25: Hagakure, The Book of Samurai - Yamamoto Tsunetomo
              If you're not First You're Last - Grant Cardone
              Building a StoryBrand - Donald Miller
@@ -30,4 +17,8 @@ What's on my mind mostly these days :
              How to grow your small business - Donald Miller
              The AI Value Playbook - Lisa Weaver-Lambert
     Mar '25: LLM Engineer's Handbook - Paul Lusztin, Maxime Labonne
+    Apr '25: LLM Engineer's Handbook - Paul Lusztin, Maxime Labonne - Implementing it in my homelab
+    May '25: LLM Engineer's Handbook - Paul Lusztin, Maxime Labonne - Implementing it in my homelab
+    Jun '25: LLM Engineer's Handbook - Paul Lusztin, Maxime Labonne - Implementing it in my homelab
+             Build a Business, Not a job - David Finkel, Stephanie Harkness
 >>>
